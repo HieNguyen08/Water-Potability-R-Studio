@@ -28,6 +28,10 @@ The dataset that is used in this project is about drinking water potability. Her
 | Potability         | \(x = 0\) or \(x = 1\), cate  
 
 ## A little review about data
+### Pie chart
+<div style="display: flex; justify-content: space-around;">
+  <img src="pie chart.png" alt="Headquarter Network Diagram" width="80%">
+</div>
 ### Boxplot and Histogram
 <div style="display: flex; justify-content: space-around;">
   <img src="box plot-chlroamines.png" alt="Headquarter Network Diagram" width="45%">
@@ -45,4 +49,12 @@ The dataset that is used in this project is about drinking water potability. Her
   <img src="box plot-sulfate.png" alt="Headquarter Network Diagram" width="33%">
   <img src="box plot-trihalomethanes.png" alt="Branch Network Diagram" width="33%">
   <img src="box plot-tubidity.png" alt="Branch Network Diagram" width="33%">
+</div>
+
+### Corrheat map and scatter plot matrix
+<div style="display: flex; justify-content: space-around;">
+  <img src="cor heat map.png" alt="Headquarter Network Diagram" width="90%">
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="scatter plot matrix.png" alt="Headquarter Network Diagram" width="90%">
 </div>
