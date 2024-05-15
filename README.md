@@ -26,3 +26,10 @@ The dataset that is used in this project is about drinking water potability. Her
 | Trihalomethanes    | \(\left\{ x \in \mathbb{R} \mid x > 0 \right\}\), cont               | \(\mu\)g/L | Amount of Trihalomethanes                           |
 | Turbidity          | \(\left\{ x \in \mathbb{R} \mid x > 0 \right\}\), cont               | NTU        | Measure of light emitting property of water         |
 | Potability         | \(x = 0\) or \(x = 1\), cate  
+
+## A little review about data
+### Boxplot and Histogram
+<div style="display: flex; justify-content: space-around;">
+  <img src="box plot-chlroamines.png" alt="Headquarter Network Diagram" width="45%">
+  <img src="box plot-conductivity.png" alt="Branch Network Diagram" width="45%">
+</div>
