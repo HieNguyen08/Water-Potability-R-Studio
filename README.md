@@ -33,3 +33,16 @@ The dataset that is used in this project is about drinking water potability. Her
   <img src="box plot-chlroamines.png" alt="Headquarter Network Diagram" width="45%">
   <img src="box plot-conductivity.png" alt="Branch Network Diagram" width="45%">
 </div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="box plot-hardness.png" alt="Headquarter Network Diagram" width="45%">
+  <img src="box plot-organic-carbon.png" alt="Branch Network Diagram" width="45%">
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="box plot-ph.png" alt="Headquarter Network Diagram" width="45%">
+  <img src="box plot-solids.png" alt="Branch Network Diagram" width="45%">
+</div>
+<div style="display: flex; justify-content: space-around;">
+  <img src="box plot-sulfate.png" alt="Headquarter Network Diagram" width="33%">
+  <img src="box plot-trihalomethanes.png" alt="Branch Network Diagram" width="33%">
+  <img src="box plot-tubidity.png" alt="Branch Network Diagram" width="33%">
+</div>
