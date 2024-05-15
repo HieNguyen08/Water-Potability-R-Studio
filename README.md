@@ -58,3 +58,56 @@ The dataset that is used in this project is about drinking water potability. Her
 <div style="display: flex; justify-content: space-around;">
   <img src="scatter plot matrix.png" alt="Headquarter Network Diagram" width="90%">
 </div>
+
+## References
+
+1. **Introductory Statistics with R**
+   - *Author*: Peter Dalgaard
+   - *Year*: 2008
+   - *Publisher*: Springer
+
+2. **Linear Regression on Student Grade Prediction**
+   - *How published*: [Link](https://rstudio-pubs-static.s3.amazonaws.com/716359_6902dfdd88684340a5f5e11038b9ac22.html)
+
+3. **DEFINITION histogram**
+   - *How published*: [Link](https://www.techtarget.com/searchsoftwarequality/definition/histogram)
+
+4. **Understanding Boxplots**
+   - *How published*: [Link](https://builtin.com/data-science/boxplot)
+
+5. **Water Quality-data table**
+   - *How published*: [Link](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data?fbclid=IwAR21lNIVgkGFLDkf9MHgmNKPH1ZTWDObRKnT-rO_flHctv9D3PEGw8aTMSw)
+
+6. **The Kappa Statistic in Reliability Studies: Use, Interpretation, and Sample Size Requirements, Physical Therapy**
+   - *Author*: Julius Sim, Chris C Wright
+   - *Year*: 2005
+
+7. **Detecting and Treating Outliers | Treating the odd one out!**
+   - *How published*: [Link](https://www.analyticsvidhya.com/blog/2021/05/detecting-and-treating-outliers-treating-the-odd-one-out/)
+
+8. **A Step-by-Step Explanation of Principal Component Analysis (PCA)**
+   - *How published*: [Link](https://builtin.com/data-science/step-step-explanation-principal-component-analysis)
+
+9. **Comparing Decision Tree Algorithms: Random Forest vs. XGBoost**
+   - *How published*: [Link](https://www.activestate.com/blog/comparing-decision-tree-algorithms-random-forest-vs-xgboost/)
+
+10. **Guide to AUC ROC Curve in Machine Learning**
+    - *How published*: [Link](https://www.geeksforgeeks.org/auc-roc-curve/)
+
+11. **What is SVM? Machine Learning Algorithm Explained**
+    - *How published*: [Link](https://www.springboard.com/blog/data-science/svm-algorithm/)
+
+12. **Support Vector Machine (SVM) Algorithm**
+    - *How published*: [Link](https://www.geeksforgeeks.org/support-vector-machine-algorithm/)
+
+13. **Understanding Overfitting and How to Prevent It**
+    - *How published*: [Link](https://www.investopedia.com/terms/o/overfitting.asp)
+
+14. **Overfitting and Underfitting – Common Causes & Solutions**
+    - *How published*: [Link](https://www.analyticsfordecisions.com/overfitting-and-underfitting/)
+
+15. **Overfitting vs Underfitting**
+    - *How published*: [Link](https://medium.com/mlearning-ai/overfitting-vs-underfitting-6a41b3c6a9ad)
+
+16. **Logistic Regression**
+    - *How published*: [Link](https://www.geeksforgeeks.org/understanding-logistic-regression/)
